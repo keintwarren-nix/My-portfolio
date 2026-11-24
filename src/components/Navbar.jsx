@@ -65,10 +65,10 @@ export default function Navbar({ activeSlide, setActiveSlide, dawnMode, setDawnM
             />
           </div>
           <div className="flex flex-col">
-            <span className="font-pixel text-base sm:text-xl md:text-2xl text-retro-text tracking-wider group-hover:text-cosmic-pink transition-colors">
-              KEINT<span className="text-cosmic-magenta">.DEV</span>
+            <span className="font-pixel text-sm sm:text-base md:text-xl text-retro-text tracking-wider group-hover:text-cosmic-pink transition-colors whitespace-nowrap">
+              KEINT.DEV<span className="text-cosmic-magenta">.PORTFOLIO</span>
             </span>
-            <span className="font-sans text-[11px] sm:text-xs text-cosmic-cyan tracking-widest uppercase font-bold">
+            <span className="font-sans text-[10px] sm:text-xs text-cosmic-cyan tracking-widest uppercase font-bold">
               CIT-U WILDCAT // COMMAND DECK
             </span>
           </div>

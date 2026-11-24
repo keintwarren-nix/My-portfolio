@@ -13,7 +13,7 @@ export const PERSONAL_INFO = {
   email: "kwpoliquit@gmail.com",
   github: "https://github.com/keintwarren-nix",
   linkedin: "https://linkedin.com/in/keintwarren",
-  resumeUrl: "/assets/KeintWarren_Resume (1).docx",
+  resumeUrl: "/assets/KeintWarren_Resume.pdf",
   avatarUrl: "/assets/photo-7.jpg",
   // 7 photos from "my picture" (clean frame, no labels)
   photos: [
